@@ -8,7 +8,7 @@
 
 🌱 Learning HTML, CSS, JavaScript, and modern web frameworks
 
-📫 How to reach me: [sommers.matt@gmail.com](mailto:sommers.matt@gmail.com)
+📫 How to reach me: [Email](mailto:sommers.matt@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
