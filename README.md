@@ -2,12 +2,6 @@
 
 ## About Me
 
-🎓 Currently learning web development at Devslopes 
-
-💻 Passionate about creating user-friendly web applications
-
-🌱 Learning HTML, CSS, JavaScript, and modern web frameworks
-
 📫 How to reach me: [Email](mailto:sommers.matt@gmail.com)
 
 ## 🛠️ Technologies & Tools
@@ -19,12 +13,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=msommer2&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msommer2&layout=compact&theme=dark)
-
 ## 🚀 Featured Projects
 
 ### [Portfolio](https://github.com/msommer2/portfolio)
@@ -32,17 +20,6 @@ Personal portfolio coded from scratch using the skills I've been working on so f
 - 🔧 Built with: HTML, CSS, JavaScript, VSCode, WSL, Git
 - 🌟 Key features: Responsive design, API integration
 - 🔗 [Live Demo](https://msommer2.github.io/portfolio/)
-
-## 📈 Current Goals
-
-- [ ] Complete Devslopes web development course
-- [ ] Build a full-stack application
-- [ ] Contribute to open source projects
-- [ ] Learn React 
-
-## 🤝 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sommers.matt@gmail.com)
 
 ---
 
